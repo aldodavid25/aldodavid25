@@ -18,6 +18,7 @@ Hola!, Me llamo Aldo Alfaro
 
 Voy a estudiar Docencia en Matematicas
 Me apasiona la Fisica y la Progamacíon
+
 Y estoy aprendiendo Desarrollo Web en Platzi
 
 Aqui podras ver mis proyectos personales, proximamente...
