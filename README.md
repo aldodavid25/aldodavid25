@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Hola!, Me llamo Aldo Alfaro
 
-Voy a estudiar Docencia en Matematicas
-Me apasiona la Fisica y la Progamacíon
+Estudio Docencia en Matemáticas
+Me apasiona la Fisica y la Progamación
 
-Y estoy aprendiendo Desarrollo Web en Platzi
+Y estoy aprendiendo Desarrollo Web y Data Science en Platzi
 
 Aqui podras ver mis proyectos personales, proximamente...
